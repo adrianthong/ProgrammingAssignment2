@@ -1,7 +1,8 @@
 ## Put comments here that give an overall description of what your
 ## functions do
-# Caching functionality in r in 
+# Caching functionality in R in 
 # assignment 2 of Coursera Datascience Course 2: R Programming
+# 05 June 2015
 
 ## Write a short comment describing this function
 # makeCacheMatrix() define functions to handle value in cache
